@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jugraj Singh Pelia</h1>
-<h3 align="center">A wanna be Data Scientist from India</h3>
+<h3 align="center">A wannabe Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugraj2021&label=Profile%20views&color=0e75b6&style=flat" alt="jugraj2021" /> </p>
 
