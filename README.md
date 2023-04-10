@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Jugraj SIngh Pelia (a.k.a FeNiX).<br>😁 I’m interested in Machine Learning and Artificial Intelligence.<br>
-Discord : FeNiX#4496
+
+💿 Discord : FeNiX#4496
 
 
 ## 🌐 Socials:
@@ -25,4 +26,4 @@ Discord : FeNiX#4496
 ---
 [![](https://visitcount.itsvg.in/api?id=Jugraj2021&icon=7&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
