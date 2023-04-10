@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jugraj SIngh Pelia (a.k.a FeNiX).<br>😁 I’m interested in Machine Learning and Artificial Intelligence.
+👋 Hi, I’m Jugraj SIngh Pelia (a.k.a FeNiX).<br>😁 I’m interested in Machine Learning and Artificial Intelligence.<br>
 Discord : FeNiX#4496
 
 
