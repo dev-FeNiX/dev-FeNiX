@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jugraj Singh Pelia</h1>
 <h3 align="center">Teaching Machines to Think, One Model at a Time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugraj2021&label=Profile%20views&color=0e75b6&style=flat" alt="jugraj2021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-FeNiX&label=Profile%20views&color=0e75b6&style=flat" alt="dev-FeNiX" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugraj2021" alt="jugraj2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-FeNiX" alt="dev-FeNiX" /></a> </p>
 
 - 🔭 I’m currently working on **Cybersecurity**
 
