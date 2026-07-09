@@ -47,9 +47,6 @@ reach_me: jugrajsinghpelia@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-FeNiX&show_icons=true&count_private=true&title_color=39FF14&icon_color=BC13FE&text_color=c9d1d9&bg_color=0D1117&border_color=39FF14&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-FeNiX&layout=compact&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117&border_color=BC13FE&hide_border=false" width="49%" />
-
 <img src="https://streak-stats.demolab.com/?user=dev-FeNiX&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=BC13FE&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9" width="70%" />
 
 </div>
