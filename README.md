@@ -58,16 +58,6 @@ reach_me: jugrajsinghpelia@gmail.com
 
 <div align="center">
 
-### `trophies --unlock`
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-FeNiX&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### `contributions --animate`
 
 <img src="https://raw.githubusercontent.com/dev-FeNiX/dev-FeNiX/output/github-contribution-grid-snake-dark.svg" width="100%" />
