@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jugraj%20Singh%20Pelia&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=BC13FE" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&random=false&width=800&height=45&lines=%3E+Building+intelligent+systems%2C+one+commit+at+a+time_;%3E+AI%2FML+Engineer+%7C+Backend+Developer;%3E+Teaching+machines+to+think%2C+one+model+at+a+time." alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&random=false&width=800&height=45&lines=%3E+Building+intelligent+systems%2C+one+commit+at+a+time_;%3E+AI%2FML+Engineer+%7C+Backend+Developer;%3E+Teaching+machines+to+think%2C+one+model+at+a+time." alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=dev-FeNiX&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0D1117" alt="dev-FeNiX" />
 
@@ -57,7 +57,11 @@ reach_me: jugraj.localhost@gmail.com
 
 ### `contributions --animate`
 
-<img src="https://raw.githubusercontent.com/dev-FeNiX/dev-FeNiX/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-FeNiX/dev-FeNiX/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-FeNiX/dev-FeNiX/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/dev-FeNiX/dev-FeNiX/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
